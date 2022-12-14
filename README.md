@@ -6,8 +6,8 @@
 - 🔗 Connect with me on LinkedIn ➡ https://www.linkedin.com/in/afaqanwar/
 - 💼 I'm looking for work.
 
-[![Afaq's GitHub stats](https://github-readme-stats.vercel.app/api?username=AfaqAnwar&count_private=true&theme=github_dark&show_icons=true&bg_color=00000000)](https://www.github.com/AfaqAnwar)
+![Afaq's GitHub stats](https://github-readme-stats.vercel.app/api?username=AfaqAnwar&count_private=true&theme=github_dark&show_icons=true&bg_color=00000000)
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AfaqAnwar&layout=compact&langs_count=8&hide=html,shell,css)](https://www.github.com/AfaqAnwar)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AfaqAnwar&layout=compact&langs_count=8&hide=html,shell,css)
