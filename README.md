@@ -7,4 +7,5 @@
 - 🔗 Connect with me on LinkedIn ➡ https://www.linkedin.com/in/afaqanwar/
 - 💼 I'm looking for work.
 
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AfaqAnwar&layout=compact&langs_count=8&hide=html,shell,css)
