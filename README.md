@@ -8,4 +8,4 @@
 - 💼 I'm looking for work.
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AfaqAnwar&layout=compact&langs_count=8&hide=html,shell,css)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AfaqAnwar&layout=compact&langs_count=4&hide=html,shell,css)
