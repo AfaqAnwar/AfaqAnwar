@@ -5,7 +5,7 @@
 
 💬 Ask me about any of my projects!
 
-🔎 Connect with me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/afaqanwar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/afaqanwar)
 
 # 💻 Tech Stack:
 **Languages**
