@@ -1,7 +1,7 @@
 # 💫 About Me:
-🔭 I’m currently working on cross-platform mobile applications with Flutter.
+🔭 I’m currently working on mobile development!
 
-🌱 I’m currently learning blockchain development.
+🌱 I’m currently learning native iOS development.
 
 💬 Ask me about any of my projects!
 
