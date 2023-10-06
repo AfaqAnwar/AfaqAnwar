@@ -14,10 +14,10 @@ Currently an Associate Software Engineer at [CVS Health](https://www.cvshealth.c
 
 ## My Projects
 
-[Solvify](https://chrome.google.com/webstore/detail/solvify/ppmfjkcdigijfbkldbckdpoflajbkoik): Chrome Extension that automatically scans and solves students' assignment problems. (_Flutter, Dart, JavaScript, Firebase, GPT_)
+[Solvify](https://chrome.google.com/webstore/detail/solvify/ppmfjkcdigijfbkldbckdpoflajbkoik): Chrome Extension that scans and solves students' assignment problems. (_Flutter, Dart, JavaScript, Firebase, GPT_)
 
-[Introspection](https://github.com/jakegut/SimplePaintball): Cross-Platform dating Mobile App that matches users based on personality. (_Flutter, Dart, Firebase, Open AI API, Rapid API_)
+[Introspection](https://github.com/jakegut/SimplePaintball): Cross-Platform dating app that matches users based on personality. (_Flutter, Dart, Firebase, Open AI API, Rapid API_)
 
-[Money Manager](https://github.com/AfaqAnwar/money-manager): Cross-Platform money management Mobile App for students and parents. (_Flutter, Dart, Firebase_)
+[Money Manager](https://github.com/AfaqAnwar/money-manager): Cross-Platform money management app for students and parents. (_Flutter, Dart, Firebase_)
 
 [Monday](https://github.com/AfaqAnwar/Monday): [NMT Model](https://github.com/AfaqAnwar/Rennon) trained on Reddit comments deployed through a Django app. (_Django, Python, JavaScript, Tensorflow, Keras_)
