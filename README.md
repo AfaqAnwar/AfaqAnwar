@@ -1,4 +1,4 @@
-# Afaq Anwar
+# Afaq Anwar - @AfaqAnwar
 
 Currently an Associate Software Engineer at [CVS Health](https://www.cvshealth.com/)
 
