@@ -16,7 +16,7 @@ Currently an Associate Software Engineer at [CVS Health](https://www.cvshealth.c
 
 [Solvify](https://chrome.google.com/webstore/detail/solvify/ppmfjkcdigijfbkldbckdpoflajbkoik): Chrome Extension that scans and solves students' assignment problems. (_Flutter, Dart, JavaScript, Firebase, GPT_)
 
-[Introspection](https://github.com/jakegut/SimplePaintball): Cross-Platform dating app that matches users based on personality. (_Flutter, Dart, Firebase, Open AI API, Rapid API_)
+[Introspection](https://github.com/AfaqAnwar/introspection): Cross-Platform dating app that matches users based on personality. (_Flutter, Dart, Firebase, Open AI API, Rapid API_)
 
 [Money Manager](https://github.com/AfaqAnwar/money-manager): Cross-Platform money management app for students and parents. (_Flutter, Dart, Firebase_)
 
