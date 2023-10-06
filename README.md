@@ -10,7 +10,7 @@ Currently an Associate Software Engineer at [CVS Health](https://www.cvshealth.c
 
 **Software Engineer Intern** at [_CVS Health_](https://www.cvshealth.com/) working with Angular, TypeScript & GCP.
 
-**Web Development Iner** at [_Black and Latino Filmmakers' Coalition_](https://blackandlatinofilm.com/) working with Wordpress, JavaScript, HTML & CSS.
+**Web Development Intern** at [_Black and Latino Filmmakers' Coalition_](https://blackandlatinofilm.com/) working with Wordpress, JavaScript, HTML & CSS.
 
 ## My Projects
 
