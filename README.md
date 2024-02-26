@@ -1,11 +1,8 @@
 # Afaq Anwar - @AfaqAnwar
 
 Currently an Associate Software Engineer at [CVS Health](https://www.cvshealth.com/)
-
-[**View my resume**](https://drive.google.com/file/d/1SmdGp7j1fHmAdFf2dyCZS7ilgmjSod_D/view?usp=sharing)
-
+<!--[**View my resume**](https://drive.google.com/file/d/1SmdGp7j1fHmAdFf2dyCZS7ilgmjSod_D/view?usp=sharing)-->
 [![linkedin](https://img.shields.io/badge/-@AfaqAnwar-161616?style=flat-square&labelColor=161616&logo=LinkedIn&logoColor=white&color=161616)](https://www.linkedin.com/in/AfaqAnwar/)  
-
 ## My Professional Experience
 
 **Software Engineer Intern** at [_CVS Health_](https://www.cvshealth.com/) working with Angular, TypeScript & GCP.
