@@ -2,7 +2,7 @@
 
 Currently a Software Engineer at [CVS Health](https://www.cvshealth.com/)
 
-[**View my resume**](https://drive.google.com/file/d/1m_9QEvVsSa1hWZN_H0qKzOXNdLXoi4ou/view?usp=sharing)
+[**View my resume**](https://drive.google.com/file/d/1bpD--_vYGwAQ_it9g4WSj_uIPceFP_h_/view?usp=sharing)
 
 [![linkedin](https://img.shields.io/badge/-@AfaqAnwar-161616?style=flat-square&labelColor=161616&logo=LinkedIn&logoColor=white&color=161616)](https://www.linkedin.com/in/AfaqAnwar/)  
 ## My Professional Experience
