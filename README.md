@@ -7,9 +7,9 @@ Currently a Software Engineer at [CVS Health](https://www.cvshealth.com/)
 [![linkedin](https://img.shields.io/badge/-@AfaqAnwar-161616?style=flat-square&labelColor=161616&logo=LinkedIn&logoColor=white&color=161616)](https://www.linkedin.com/in/AfaqAnwar/)  
 ## My Professional Experience
 
-**Software Engineer** at [_CVS Health_](https://www.cvshealth.com/) working with Angular, TypeScript & GCP.
+**Software Engineering Intern** at [_CVS Health_](https://www.cvshealth.com/) working with Angular, TypeScript & GCP.
 
-**Web Developer** at [_Black and Latino Filmmakers' Coalition_](https://blackandlatinofilm.com/) working with Wordpress, JavaScript, HTML & CSS.
+**Web Development Intern** at [_Black and Latino Filmmakers' Coalition_](https://blackandlatinofilm.com/) working with Wordpress, JavaScript, HTML & CSS.
 
 ## My Projects
 
