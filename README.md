@@ -1,6 +1,6 @@
 # Afaq Anwar - @AfaqAnwar
 
-Currently a Software Engineer at [CVS Health](https://www.cvshealth.com/)
+Currently a Software Engineer II at [CVS Health](https://www.cvshealth.com/)
 
 [**View my resume**](https://drive.google.com/file/d/1N-P4CHPrTc-Y5c6I0J_o6hFN3gMv1Ans/view?usp=sharing)
 
