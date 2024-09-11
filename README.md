@@ -2,6 +2,8 @@
 
 Currently a Software Engineer II at [CVS Health](https://www.cvshealth.com/) working on frontend development with Next.js & React.
 
+During my spare time, I'm also developing [OPTRA](https://www.optra.app/).
+
 [**View my resume**](https://drive.google.com/file/d/1Z5RYUp_WuUo4vkyBtKe88jGATkKlCEOL/view?usp=sharing)
 
 [![linkedin](https://img.shields.io/badge/-@AfaqAnwar-161616?style=flat-square&labelColor=161616&logo=LinkedIn&logoColor=white&color=161616)](https://www.linkedin.com/in/AfaqAnwar/)  
