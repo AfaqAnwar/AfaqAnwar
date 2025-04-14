@@ -4,7 +4,7 @@ Currently a Software Engineer II at [CVS Health](https://www.cvshealth.com/) wor
 
 During my spare time, I'm also developing [OPTRA](https://www.optra.app/).
 
-[**View my resume**](https://drive.google.com/file/d/1JJCEI-SZL2K3qw64UvedVUBREbzKGNbs/view?usp=sharing) or [**Check out my website**](https://www.afaqanwar.com)
+[**View my resume**](https://drive.google.com/file/d/116dIfTK5ggcpI7wmLZ-Y4qctQfzk8Hhd/view?usp=sharing) or [**Check out my website**](https://www.afaqanwar.com)
 
 [![linkedin](https://img.shields.io/badge/-@AfaqAnwar-161616?style=flat-square&labelColor=161616&logo=LinkedIn&logoColor=white&color=161616)](https://www.linkedin.com/in/AfaqAnwar/)  
 ## My Professional Experience
