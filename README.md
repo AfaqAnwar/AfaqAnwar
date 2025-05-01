@@ -4,7 +4,7 @@ Currently a Software Engineer II at [CVS Health](https://www.cvshealth.com/) wor
 
 [**View my resume**](https://drive.google.com/file/d/1hDWY_mmD0RIqdZwqt53o5WuoMQ-gaaOW/view?usp=sharing) or [**Check out my website**](https://www.afaqanwar.com)
 
-[![linkedin](https://img.shields.io/badge/-@AfaqAnwar-161616?style=flat-square&labelColor=161616&logo=LinkedIn&logoColor=white&color=161616)](https://www.linkedin.com/in/AfaqAnwar/)  
+LinkedIn: [![linkedin](https://img.shields.io/badge/-@AfaqAnwar-161616?style=flat-square&labelColor=161616&logo=LinkedIn&logoColor=white&color=161616)](https://www.linkedin.com/in/AfaqAnwar/)  
 ## My Professional Experience
 
 **Associate Software Egnineer** at [_CVS Health_](https://www.cvshealth.com/) working on web & native mobile accessibility.
