@@ -2,7 +2,7 @@
 
 Currently a Software Engineer II at [CVS Health](https://www.cvshealth.com/) working on frontend development with Next.js & React.
 
-[**View my resume**](https://drive.google.com/file/d/1HGwSkWFbiEBPTQdTU8Gj7GHtg1CplisJ/view?usp=sharing) or [**Check out my website**](https://www.afaqanwar.com)
+[**View my resume**](https://drive.google.com/file/d/19usW6JNL1m8IZKTaAVOg3G1fe1lI1t8_/view?usp=sharing) or [**Check out my website**](https://www.afaqanwar.com)
 
 LinkedIn: [![linkedin](https://img.shields.io/badge/-@AfaqAnwar-161616?style=flat-square&labelColor=161616&logo=LinkedIn&logoColor=white&color=161616)](https://www.linkedin.com/in/AfaqAnwar/)  
 ## My Professional Experience
